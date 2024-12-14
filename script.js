@@ -1,4 +1,3 @@
-// script.js
 const amount = document.querySelector('.amount')
 document.querySelectorAll('.box').forEach((box) => {
     box.addEventListener('click', (e) => {
